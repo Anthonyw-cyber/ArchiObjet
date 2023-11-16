@@ -1,0 +1,8 @@
+C:\Users\awilhelm\source\repos\ArchiObjet2\bin\Debug\ArchiObjet2.exe.config
+C:\Users\awilhelm\source\repos\ArchiObjet2\bin\Debug\ArchiObjet2.exe
+C:\Users\awilhelm\source\repos\ArchiObjet2\bin\Debug\ArchiObjet2.pdb
+C:\Users\awilhelm\source\repos\ArchiObjet2\obj\Debug\ArchiObjet2.csproj.AssemblyReference.cache
+C:\Users\awilhelm\source\repos\ArchiObjet2\obj\Debug\ArchiObjet2.csproj.SuggestedBindingRedirects.cache
+C:\Users\awilhelm\source\repos\ArchiObjet2\obj\Debug\ArchiObjet2.csproj.CoreCompileInputs.cache
+C:\Users\awilhelm\source\repos\ArchiObjet2\obj\Debug\ArchiObjet2.exe
+C:\Users\awilhelm\source\repos\ArchiObjet2\obj\Debug\ArchiObjet2.pdb
